@@ -3,6 +3,7 @@
 
 def key_for_min_value(name_hash)
   if name_hash != NIL
+    smallest_key 
     name_hash.collect do |key,value|
       
     end
